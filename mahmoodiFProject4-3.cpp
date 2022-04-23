@@ -1,13 +1,3 @@
-//============================================================================
-// Name        : mahmoodiFProject4.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
-//This program creates a file filled with random numbers.
-//And tests to see if any of those numbers are prime and calculates their sum.
 #include<iostream>
 #include<fstream>
 #include<cstdlib>
